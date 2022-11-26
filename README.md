@@ -2,7 +2,7 @@
 
 A frontend challenge creating a fully responsive landing page for KFC.
 
-📥Try it yourself: https://hectorulisesstamatio.github.io/IAChooseColors/
+📥Try it yourself: https://hectorulisesstamatio.github.io/LandingResponsivePage-KFC/
 
 <div align="center">
    <img src="https://i.postimg.cc/D08W28jK/kfc.png"  alt="page preview"  />
